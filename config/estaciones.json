@@ -1,0 +1,101 @@
+{
+  "proyecto": {
+    "titulo": "El Viaje Profesional",
+    "subtitulo": "EduConecta Aburrá Sur",
+    "institucion": "TdeA Aburrá Sur",
+    "programa": "Técnica Profesional en Sistemas",
+    "integrantes": [
+      "Ana Sofía Vallejo Henao",
+      "Juan Diego Romero"
+    ]
+  },
+  "introduccion": {
+    "presentador_1": "ANA SOFÍA",
+    "presentador_2": "JUAN DIEGO",
+    "texto_ana": "Buenas tardes. Bienvenidos a una edición especial de TdeA Noticias. Hoy tenemos una historia diferente, porque vamos a acompañar a dos estudiantes durante un viaje que comienza desde su formación en Sistemas y termina cuando se convierten en profesionales capaces de transformar su entorno.",
+    "texto_juan": "Así es. Durante este recorrido vamos a pasar por cuatro estaciones. En cada una tendremos que superar una pregunta y tomar decisiones que nos van a acercar a nuestro objetivo: encontrar una solución tecnológica para un problema real de la sociedad.",
+    "problema": "La brecha digital y la desigualdad en el acceso a la educación tecnológica, especialmente en comunidades donde existen dificultades de conectividad, acceso a dispositivos o conocimientos digitales.",
+    "solucion": "EduConecta Aburrá Sur"
+  },
+  "estaciones": [
+    {
+      "numero": 1,
+      "titulo": "FORMACIÓN INTEGRAL",
+      "color": "#22c55e",
+      "icono": "🟢",
+      "pregunta": "¿Qué significa ser un profesional integral en Ingeniería de Sistemas o Ingeniería de Software?",
+      "key_points": [
+        "Conocimientos técnicos en sistemas y desarrollo de software",
+        "Pensamiento crítico",
+        "Comunicación efectiva",
+        "Trabajo en equipo",
+        "Responsabilidad social",
+        "Comprensión del contexto y necesidades de la sociedad"
+      ],
+      "conclusion": "La formación integral nos enseña que la tecnología debe estar relacionada con las personas y con el contexto donde se utiliza."
+    },
+    {
+      "numero": 2,
+      "titulo": "COMPETENCIAS EN ACCIÓN",
+      "color": "#3b82f6",
+      "icono": "🔵",
+      "pregunta": "¿Qué competencias necesita para afrontar el problema seleccionado?",
+      "competencias": [
+        "Trabajo en equipo",
+        "Comunicación asertiva",
+        "Lectura crítica",
+        "Responsabilidad ciudadana",
+        "Razonamiento cuantitativo",
+        "Emprendimiento"
+      ],
+      "decision": "No querían simplemente entregar computadores o instalar internet. Querían crear una herramienta que ayudara a las personas a acceder a contenidos educativos y desarrollar competencias digitales."
+    },
+    {
+      "numero": 3,
+      "titulo": "RUTA ACADÉMICA",
+      "color": "#22c55e",
+      "icono": "🟢",
+      "pregunta": "¿Qué opción de grado podría elegir y qué semillero o grupo de investigación fortalecería su proyecto?",
+      "formacion": "Técnica Profesional en Sistemas → Niveles posteriores del área",
+      "grupos_investigacion": [
+        "GIISTA (Grupo de Investigación e Innovación en Software y TICs)",
+        "SEIS (Semillero de Ingeniería de Software e Inclusión)"
+      ],
+      "opcion_grado": "Proyecto de aplicación tecnológica con impacto social o emprendimiento",
+      "beneficio": "Pasar de una idea de clase a un proyecto que se pueda investigar, diseñar, probar y mejorar."
+    },
+    {
+      "numero": 4,
+      "titulo": "IMPACTO SOCIAL",
+      "color": "#3b82f6",
+      "icono": "🔵",
+      "pregunta": "¿Cómo actuaría como ingeniero responsable, ético y comprometido con la sociedad?",
+      "responsabilidades": [
+        "Proteger datos personales de usuarios",
+        "Implementar medidas de seguridad",
+        "Garantizar inclusión",
+        "Pensar en el medioambiente",
+        "Escuchar a la comunidad",
+        "Considerar consecuencias de decisiones"
+      ],
+      "enfoque": "Offline-First - acceso a contenidos sin depender de internet permanente",
+      "vision": "La tecnología como herramienta para generar oportunidades y reducir desigualdades"
+    }
+  ],
+  "solucion_final": {
+    "nombre": "EduConecta Aburrá Sur",
+    "descripcion": "Plataforma tecnológica para facilitar acceso a contenidos educativos y fortalecer competencias digitales en comunidades con dificultades de conectividad",
+    "caracteristicas": [
+      "Contenidos educativos con conexión limitada",
+      "Funcionamiento sin conexión permanente",
+      "Interfaz sencilla e inclusiva",
+      "Recursos para diferentes tipos de usuarios",
+      "Enfoque de tecnología como herramienta de participación y oportunidades"
+    ]
+  },
+  "cierre": {
+    "reflexion_1": "Cuando comenzamos este viaje pensábamos que ser profesionales de Sistemas consistía principalmente en aprender tecnología.",
+    "reflexion_2": "Pero durante las cuatro estaciones entendimos que también debemos aprender a pensar, investigar, comunicarnos, trabajar con otros y asumir responsabilidades.",
+    "mensaje_final": "Ser ingeniero no es solamente crear tecnología... es utilizarla de manera responsable para transformar nuestro entorno."
+  }
+}
