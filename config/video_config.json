@@ -1,0 +1,39 @@
+{
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "duration_intro": 8,
+    "duration_station": 120,
+    "duration_solution": 30,
+    "duration_closing": 45,
+    "transition_duration": 1.5
+  },
+  "colors": {
+    "background": "#1a1a1a",
+    "text_white": "#ffffff",
+    "station_green": "#22c55e",
+    "station_blue": "#3b82f6",
+    "accent_yellow": "#fbbf24"
+  },
+  "fonts": {
+    "title": "Arial",
+    "body": "Arial",
+    "size_title": 72,
+    "size_subtitle": 48,
+    "size_body": 36,
+    "size_speaker": 32
+  },
+  "audio": {
+    "background_music_volume": 0.2,
+    "speech_volume": 1.0,
+    "fade_in_duration": 2,
+    "fade_out_duration": 2
+  },
+  "output": {
+    "format": "mp4",
+    "codec": "libx264",
+    "preset": "medium",
+    "bitrate": "5000k"
+  }
+}
